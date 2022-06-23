@@ -2,6 +2,9 @@
 
 Copia de la interfaz de usuario de Twitter en su versión web para móviles y tablets. Creado para [Rviewer](https://rviewer.io).
 
+Para una mejor experiencia, utilizar un dispositivo adecuado o la visión adaptativa del inspector del navegador.
+Es necesario simular una pantalla táctil para pasar las imágenes de las galerías.
+
 ## Herramientas utilizadas
 
 Las herramientas y tecnologías utilizadas son:
@@ -20,7 +23,7 @@ Las herramientas y tecnologías utilizadas son:
   * Puedes clonar el repositorio e instalar las dependencias con `npm install`.
   * Iniciar la app con `npm start`.
 
-También **puedes ver la demo** publicada con GitHub Pages **[AQUÍ]**.
+También **puedes ver la demo** publicada con GitHub Pages **[AQUÍ](https://danidnz.github.io/TwitterMirroring/)**.
 
 Para más info sobre React, puedes ver el `README.REACT.md`.
 
